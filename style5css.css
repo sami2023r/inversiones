@@ -1,0 +1,83 @@
+#port{
+	width:1340px;
+	height:220px;
+	background:url(imagenes/fondooo.jpg);
+	margin-top:0px;
+}
+
+header{z
+	background-color:#f2f2f2;
+	text-align: center;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+nav a{
+	display: inline-block;
+	text-decoration: none;
+	color: #696969;
+	margin: 0 30px;
+	padding: 5px 15px;
+	border-radius:30px;
+}
+
+nav a:hover{
+  background-color: #0CF;
+	color: #fff;
+}
+
+/*zona de prueba */
+
+.formulario{
+	font-family:"Toledo";
+	color:#FFF;
+	justify-content: center;
+	text-align:center;
+	background-image:url(imagenes/fondo_celeste.jpg);
+	padding:20px;
+	margin: 50px 400px;
+	border-radius:15px;
+	-moz-border-radius:15px;
+}
+
+#contact-form input,
+#contact-form select,
+#contact-form textarea,
+#contact-form label
+{
+	font-size:15px;
+	margin-bottom:1px;
+	font-family:Arial, Helvetica, sans-serif;
+	align-content:center;
+}
+
+#contact-form input,
+#contact-form select,
+#contact-form textarea,
+{
+	width:320px;
+	background-color:#0F6;
+	border:0;
+	-moz-border-radius:5px;
+	border-radius:5px;
+	padding:5px;
+	align-items:flex-end;
+}
+
+footer{
+    background-color:#f2f2f2;
+    width: 100wh;
+    height: 5%;
+    margin-top: 10px;
+    border-radius: 15px;
+    box-shadow: -1px 1px 7px 0px rgba(0, 0, 0, 0.75);
+    align-items: center;
+    text-align: center;
+    display: flex;
+    background:#117ed1;
+}
+
+#mm{
+	margin-top: 100px;
+}
+
